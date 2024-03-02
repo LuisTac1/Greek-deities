@@ -1,0 +1,27 @@
+/* @keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+} */
+
+.div-header:hover {
+    background-color: rgba(133, 133, 133, 0.433);
+}
+
+.bar-link:hover{
+    color: rgb(230, 207, 0);
+}
+
+.div-list:hover {
+    background-color: rgba(133, 133, 133, 0.433);
+}
+
+.link:hover {
+    color: rgb(230, 207, 0);
+}
